@@ -1,7 +1,7 @@
 #!/bin/bash
 # CamPhish v1.0
 # Powered by Technical Hacker Team
-# Credits goes to DarkWizo [github.com/DarkWinzo/]
+# Credits goes to Nimesh Official [github.com/nimesh-official/]
 
 banner() {
 echo -e "\e[92m    ♥ﮩ٨ـﮩﮩ٨ـﮩﮩ ∂αякωιηzσ ﮩﮩـ٨ﮩﮩـ٨ﮩ♥                       "

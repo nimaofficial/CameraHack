@@ -44,7 +44,7 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/DarkWinzo/CameraHack
+git clone https://github.com/Mr-Nimesh/CameraHack
 cd CameraHack
 bash CameraHack.sh
 ```
